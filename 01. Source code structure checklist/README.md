@@ -135,7 +135,7 @@ how much time it will take for a newcomer/your colleague/yourself to find the ri
 Let’s be honest, human beings are not so good at keeping a lot of objects and abstractions in memory simultaneously. 
 We shouldn’t neglect our natural peculiarities and help ourselves in any ways possible.
 
-## Bibliography:
+## Bibliography
 
 [McConnell, Steve. 2004. Code Complete, 2nd Edition](https://www.oreilly.com/library/view/code-complete-2nd/0735619670/) 
 
