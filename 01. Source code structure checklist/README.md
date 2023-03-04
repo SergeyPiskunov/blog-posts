@@ -91,7 +91,8 @@ It is usually not just a major refactoring, it means rewriting the major portion
 which is not desirable at all. 
 
 I’m going to suggest here any kind of approach based on the inversion of control. 
-The [Hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)) or any of its [variants](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)#Variants) should work.
+The [Hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)) 
+or any of its [variants](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)#Variants) should work.
 Such kind of code structure makes it easy to separate business logic from representation and persistence layers 
 or to add new layers as the Web interface besides existing CLI Interface and vice versa. 
 Although using such approaches for small or short-term solutions may be an overkill.
